@@ -1,1 +1,1 @@
-Ссылка на ноутбук в колабе - https://colab.research.google.com/drive/13wQ8AjT4dYMfGk6cFGgcR8CVCGv1D18i?usp=sharing
+Ссылка на ноутбук в колабе - https://colab.research.google.com/drive/1FXHrA-CuCOPdNmVCfsPlKApHd5zVtVy5?usp=sharing
